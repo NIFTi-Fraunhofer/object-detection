@@ -9,7 +9,7 @@ This source package contains an implementation of Multi-Resolution Surfel Maps f
 Authors: Jörg Stückler, Sven Behnke
 
 * Semantic mapping using object-class segmentation of RGB-D images  
-[http://publica.fraunhofer.de/dokumente/N-221239.html] (http://publica.fraunhofer.de/dokumente/N-221239.html)
+[http://publica.fraunhofer.de/dokumente/N-221239.html] (http://publica.fraunhofer.de/dokumente/N-221239.html)  
 Authors: Jörg Stückler, Sven Behnke, Nenad Biresev
 
 * Dense Real-Time Mapping of Object-Class Semantics from RGB-D Video  
